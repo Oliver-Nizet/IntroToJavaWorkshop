@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/League/Google Drive/league-jars/robot.jar"/>
+	<classpathentry excluding="day3/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/day3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/olivernizet/Desktop/league-jars-master/robot.jar"/>
+	<classpathentry kind="lib" path="/Users/olivernizet/Desktop/league-jars-master/Tortoise.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

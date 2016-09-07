@@ -22,7 +22,7 @@ for (int i = 0; i < 500; i++) {
 			// 6. Move the robot 5 times the current line number you are drawing (5*i)
 	r.move(5 * i);
 			// 2. Turn the robot 1/3 of 360 degrees to the right
-	r.turn(360/4);
+	r.turn(360/20);
 			// 8. Change the number of sides to 7 (don’t add a new line of code for this one!)
 	
 			// 9. Set the pen width to i
